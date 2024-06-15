@@ -523,6 +523,7 @@
 127.0.0.1 api.adnet.mob.com
 127.0.0.1 tracking.ad-survey.com
 127.0.0.1 api1.888zy.cn
+127.0.0.1 open.e.kuaishou.com
 127.0.0.1 sdk.api.oaid.wocloud.cn
 127.0.0.1 i.w.inmobi.cn
 127.0.0.1 sdktm.w.inmobi.cn
@@ -727,6 +728,8 @@
 127.0.0.1 yaolu.mh.163.com
 127.0.0.1 yaolu.yuedu.163.com
 127.0.0.1 newswifiapi.dftoutiao.com
+127.0.0.1 api.e.kuaishou.com
+127.0.0.1 api2.e.kuaishou.com
 127.0.0.1 log-dmp.suishenyun.cn
 127.0.0.1 log1.cmpassport.com
 127.0.0.1 adlog.tagtic.cn
@@ -770,6 +773,8 @@
 127.0.0.1 dspimg.adsame.com
 127.0.0.1 app-tj.adinall.com
 127.0.0.1 g.koowo.com
+127.0.0.1 mobilead.kuwo.cn
+127.0.0.1 nmobi.kuwo.cn
 127.0.0.1 splashimgbssdl.yun.kugou.com
 127.0.0.1 m1.ad.10010.com
 127.0.0.1 config.unityads.unitychina.cn
@@ -793,6 +798,8 @@
 127.0.0.1 ssp.indexmob.com
 127.0.0.1 engine.liandaomobi.com
 127.0.0.1 api.yidaomobi.com
+127.0.0.1 adtrack.e.kuaishou.com
+127.0.0.1 open.e.kuaishou.cn
 127.0.0.1 jnn-pa.googleapis.com
 127.0.0.1 adcs-ue.myappsget.com
 127.0.0.1 api.myadsget.com
