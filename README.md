@@ -28,3 +28,5 @@ https://raw.githubusercontent.com/mengxianbo/kuku-ad/main/9.txt
 https://raw.githubusercontent.com/mengxianbo/kuku-ad/main/11.txt
 
 https://raw.githubusercontent.com/mengxianbo/kuku-ad/main/AA.txt
+
+https://raw.githubusercontent.com/mengxianbo/kuku-ad/main/dns.txt
