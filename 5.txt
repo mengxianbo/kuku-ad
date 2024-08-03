@@ -210,7 +210,6 @@ video.dispatch.tc.qq.com
 @@|http://item.btime.com/
 @@|https://analytics.google.com/
 browser.360.cn#@##banner
-hao123.com#@#.popup
 !--bimibimi--m站
 adx.dlads.cn
 !--
