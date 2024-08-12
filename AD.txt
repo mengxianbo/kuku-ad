@@ -1,5 +1,4 @@
-payload:
-- '+.a-dxk.play.api.3g.youku.com'
+  - '+.a-dxk.play.api.3g.youku.com'
   - '+.actives.youku.com'
   - '+.ad.api.3g.tudou.com'
   - '+.ad.api.3g.youku.com'
