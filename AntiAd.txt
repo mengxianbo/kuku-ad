@@ -30939,17 +30939,6 @@
 ||face-push.com^
 ||business.face2.io^
 ||facebarclarty.com^
-||analytics.facebook.com^
-||badge.facebook.com^
-||pixel.facebook.com^
-||b-graph-fallback.facebook.com^
-||b-graph.facebook.com^
-||connect.facebook.com^
-||graph-fallback.facebook.com^
-||mqtt-mini.facebook.com^
-||staticxx.facebook.com^
-||z-m-graph.facebook.com^
-||connect.facebook.net^
 ||metrics.faceipf.com^
 ||smetrics.faceipf.com^
 ||analytics.faceitanalytics.com^
