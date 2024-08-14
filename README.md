@@ -25,8 +25,17 @@ https://raw.githubusercontent.com/mengxianbo/kuku-ad/main/8.txt
 https://raw.githubusercontent.com/mengxianbo/kuku-ad/main/9.txt
 
 
-https://raw.githubusercontent.com/mengxianbo/kuku-ad/main/11.txt
-
 https://raw.githubusercontent.com/mengxianbo/kuku-ad/main/AA.txt
 
 https://raw.githubusercontent.com/mengxianbo/kuku-ad/main/dns.txt
+
+https://raw.githubusercontent.com/mengxianbo/kuku-ad/main/aboutcookies.txt
+
+https://raw.githubusercontent.com/mengxianbo/kuku-ad/main/CJXsAnnoyanceList.txt
+
+https://raw.githubusercontent.com/mengxianbo/kuku-ad/main/AD.txt
+
+https://raw.githubusercontent.com/mengxianbo/kuku-ad/main/Ads.txt
+
+https://raw.githubusercontent.com/mengxianbo/kuku-ad/main/AntiAd.txt
+
