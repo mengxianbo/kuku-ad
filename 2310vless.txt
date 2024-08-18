@@ -1,5 +1,5 @@
-ca.jianxian.us.kg:443#微信+mengxianbo556677
-hk.jianxian.us.kg:443#微信+mengxianbo556677
+ca.jianxian.us.kg:443#Google
+hk.jianxian.us.kg:443#Facebook
 www.visa.com.tw:443#优选域名
 www.visa.co.jp:443#优选域名
 www.visa.com.hk:443#优选域名
