@@ -1,3 +1,5 @@
+yw.jianxian.dynv6.net:443#Google
+cloud.jianxian.dynv6.net:443#Facebook
 206.238.237.3:443#优质线路
 206.238.236.74:443#优质线路
 66.235.200.160:443#优质线路
