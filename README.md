@@ -42,6 +42,7 @@ https://raw.githubusercontent.com/mengxianbo/kuku-ad/main/AntiAd.txt
 https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
+https://raw.githubusercontent.com/mengxianbo/kuku-ad/main/AdBlockDNS.txt
 
 
 
