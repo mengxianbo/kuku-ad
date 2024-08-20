@@ -1,5 +1,8 @@
 ca.jianxian.us.kg:443#Google
 hk.jianxian.us.kg:443#Facebook
+206.238.237.3:443#优质线路
+206.238.236.74:443#优质线路
+66.235.200.160:443#优质线路
 www.visa.com.tw:443#优选域名
 www.visa.co.jp:443#优选域名
 www.visa.com.hk:443#优选域名
