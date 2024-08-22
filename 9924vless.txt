@@ -2,6 +2,9 @@ yw.jianxian.dynv6.net:443#Google
 cloud.jianxian.dynv6.net:443#Facebook
 uk.jianxian.dynv6.net:443#Youtube
 baijan.jianxian.dynv6.net:443#instagram
+172.64.195.113:443#移动
+172.67.225.21:443#联通
+104.19.65.34:443#电信
 154.211.8.1:443#剑仙+反代ip
 27.50.48.4:443#剑仙+反代ip
 27.50.48.106:443#剑仙+反代ip
