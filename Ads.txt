@@ -180,7 +180,6 @@
 ||c.bidtoolads.com^
 ||c.evidon.com^
 ||c.gj.qq.com^
-||c.kuaiduizuoye.com^
 ||c.sayhi.360.cn^
 ||c2.gdt.qq.com^
 ||catalog.fjwhcbsh.com^
@@ -400,11 +399,8 @@
 ||p.l.qq.com^
 ||p.s.360.cn^
 ||p1-be-pack-sign.pglstatp-toutiao.com^
-||p1-lm.adkwai.com^
 ||p2-be-pack-sign.pglstatp-toutiao.com^
-||p2-lm.adkwai.com^
 ||p3-be-pack-sign.pglstatp-toutiao.com^
-||p3-lm.adkwai.com^
 ||p3-tt.byteimg.com^
 ||p4-be-pack-sign.pglstatp-toutiao.com^
 ||p5-be-pack-sign.pglstatp-toutiao.com^
