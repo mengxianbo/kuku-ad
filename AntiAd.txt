@@ -4459,9 +4459,6 @@
 ||adkova.com^
 ||adku.co^
 ||adku.com^
-||p1-lm.adkwai.com^
-||p1.adkwai.com^
-||p3.adkwai.com^
 ||adl-hunter.com^
 ||stat.adlabs.ru^
 ||adlane.info^
