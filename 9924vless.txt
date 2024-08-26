@@ -4,7 +4,7 @@ cloud.jianxian.dynv6.net:443#Facebook
 uk.jianxian.dynv6.net:443#Youtube
 baijan.jianxian.dynv6.net:443#instagram
 172.64.195.113:443#移动
-172.67.225.21:443#联通
+172.67.192.209:443#联通
 104.19.65.34:443#电信
 107.182.179.27:2443#搬瓦工
 65.49.216.153:2443#搬瓦工
