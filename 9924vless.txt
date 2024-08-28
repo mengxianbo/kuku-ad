@@ -3,6 +3,11 @@ yw.jianxian.dynv6.net:443#Google
 cloud.jianxian.dynv6.net:443#Facebook
 uk.jianxian.dynv6.net:443#Youtube
 baijan.jianxian.dynv6.net:443#instagram
+104.20.20.67:联通+香港
+104.20.22.25:联通+香港
+104.20.18.28:联通+香港
+104.20.16.246:联通+香港
+104.20.22.112:联通+香港
 172.67.14.7:443#移动
 190.93.245.232:443#联通
 172.64.137.178:443#电信
