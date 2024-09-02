@@ -1,4 +1,4 @@
-hkong.us.kg:443#biog.us.kg
+hkong.us.kg:443#博客：biog.us.kg
 hongkong.jianxian.dynv6.net:443#Network International
 yw.jianxian.dynv6.net:443#4Google
 cloud.jianxian.dynv6.net:443#Facebook
