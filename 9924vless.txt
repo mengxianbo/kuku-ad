@@ -1,6 +1,6 @@
 us.jianxian.dynv6.net:443#mengxianbo556677@gmail.com
 hongkong.jianxian.dynv6.net:443#Network International
-yw.jianxian.dynv6.net:443#4Google
+yw.jianxian.dynv6.net:443#Google
 cloud.jianxian.dynv6.net:443#Facebook
 uk.jianxian.dynv6.net:443#Youtube
 baijan.jianxian.dynv6.net:443#instagram
