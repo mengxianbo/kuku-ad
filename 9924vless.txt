@@ -1,9 +1,9 @@
-hkong.us.kg:https://biog.us.kg
-hongkong.jianxian.dynv6.net:Network International
-yw.jianxian.dynv6.net:4Google
-cloud.jianxian.dynv6.net:Facebook
-uk.jianxian.dynv6.net:Youtube
-baijan.jianxian.dynv6.net:instagram
+hkong.us.kg:443#https://biog.us.kg
+hongkong.jianxian.dynv6.net:443#Network International
+yw.jianxian.dynv6.net:443#4Google
+cloud.jianxian.dynv6.net:443#Facebook
+uk.jianxian.dynv6.net:443#Youtube
+baijan.jianxian.dynv6.net:443#instagram
 154.92.9.160:香港
 154.92.9.246:香港
 74.120.172.114:443#搬瓦工
