@@ -1,4 +1,4 @@
-us.jianxian.dynv6.net:443#jianxianapp@gmail.com
+a.hkong.dns.army:443#jianxianapp@gmail.com
 hongkong.jianxian.dynv6.net:443#Network International
 yw.jianxian.dynv6.net:443#Google
 cloud.jianxian.dynv6.net:443#Facebook
