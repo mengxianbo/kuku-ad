@@ -1,4 +1,4 @@
-a.hkong.dns.army:443#jianxianapp@gmail.com
+ama1.jianxian.dynv6.net:443#jianxianapp@gmail.com
 hongkong.jianxian.dynv6.net:443#Network International
 yw.jianxian.dynv6.net:443#Google
 cloud.jianxian.dynv6.net:443#Facebook
@@ -13,15 +13,15 @@ baijan.jianxian.dynv6.net:443#instagram
 27.50.48.106:Actions
 27.50.48.8:Actions
 27.50.48.73:Actions
-103.160.204.10:Actions
-103.160.204.52:Actions
-103.160.204.174:Actions
+27.50.48.5:Actions
+45.78.55.227:Actions
+152.32.253.180:Actions
 47.238.77.174:香港
 47.76.249.157:香港
 47.76.135.170:香港
 8.217.28.51:443#香港
 149.129.103.176:443#香港
-8.218.253.129:20000#香港
+47.242.74.110:443#香港
 74.120.172.114:443#搬瓦工
 174.137.59.73:443#搬瓦工
 144.168.61.105:443#搬瓦工
@@ -50,4 +50,3 @@ kr.jianxian.dynv6.net:1443#韩国
 132.226.22.3:9999#韩国
 146.56.137.220:443#韩国
 64.110.67.0:50000#韩国
-204.216.216.146:443#美国
