@@ -452,8 +452,6 @@ kr2.jianxian.dynv6.net:443#韩国
 89.208.242.223#✈️Movantaj
 144.34.168.140#✈️Movantaj
 74.120.172.114#✈️Movantaj
-67.230.172.35#✈️Movantaj
-67.230.181.235#✈️Movantaj
 66.112.212.93#✈️Movantaj
 104.160.40.100#✈️Movantaj
 67.230.179.216#✈️Movantaj
@@ -471,7 +469,6 @@ kr2.jianxian.dynv6.net:443#韩国
 67.230.172.158#✈️Movantaj
 104.128.95.200#✈️Movantaj
 104.194.83.17#✈️Movantaj
-144.34.187.71#✈️Movantaj
 74.120.168.244#✈️Movantaj
 176.122.153.133#✈️Movantaj
 66.112.213.56#✈️Movantaj
@@ -480,7 +477,6 @@ kr2.jianxian.dynv6.net:443#韩国
 107.182.19.22#✈️Movantaj
 67.230.178.47#✈️Movantaj
 144.34.183.206#✈️Movantaj
-23.105.220.71#✈️Movantaj
 172.93.42.179#✈️Movantaj
 104.128.90.171#✈️Movantaj
 199.115.228.152#✈️Movantaj
