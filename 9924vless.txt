@@ -340,7 +340,7 @@ kr2.jianxian.dynv6.net:443#韩国
 45.78.29.101#✈️Movantaj
 144.168.56.150#✈️Movantaj
 144.34.165.240#✈️Movantaj
-23.106.145.170#✈️Movantaj
+204.93.210.146#✈️Movantaj
 104.194.83.183#✈️Movantaj
 89.208.241.134#✈️Movantaj
 67.230.166.242#✈️Movantaj
