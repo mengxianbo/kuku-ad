@@ -14,9 +14,9 @@ baijan.jianxian.dynv6.net:443#instagram
 27.50.48.8:Actions
 27.50.48.73:Actions
 27.50.48.5:Actions
-94.103.4.159#✈Hongkong
-94.103.4.230#✈Hongkong
-45.78.29.101#✈Hongkong
+94.103.4.159#Hongkong
+94.103.4.230#Hongkong
+45.78.29.101#Hongkong
 47.76.249.157:香港
 47.76.50.48:香港
 47.242.199.196:香港
