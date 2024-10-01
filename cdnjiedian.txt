@@ -7,10 +7,10 @@ baijan.jianxian.dynv6.net:443#instagram
 94.103.4.159#Hongkong
 94.103.4.230#Hongkong
 45.78.29.101#Hongkong
-27.50.48.106:Actions
-27.50.48.8:Actions
-27.50.48.73:Actions
-27.50.48.5:Actions
+27.50.48.106#Anti.HongKong
+27.50.48.8#Anti.HongKong
+27.50.48.73#Anti.HongKong
+27.50.48.5#Anti.HongKong
 204.93.210.84:sword fairy
 204.93.210.27:sword fairy
 204.93.210.96:sword fairy
