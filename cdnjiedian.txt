@@ -11,6 +11,13 @@ baijan.jianxian.dynv6.net:443#instagram
 27.50.48.8#Anti.HongKong
 27.50.48.73#Anti.HongKong
 27.50.48.5#Anti.HongKong
+144.168.56.150#Movantaj
+144.34.165.240#Movantaj
+204.93.210.146#Movantaj
+104.194.83.183#Movantaj
+89.208.241.134#Movantaj
+67.230.166.242#Movantaj
+95.169.27.162#Movantaj
 204.93.210.84:Anycast
 204.93.210.27:Anycast
 204.93.210.96:Anycast
@@ -47,26 +54,6 @@ baijan.jianxian.dynv6.net:443#instagram
 206.238.237.105:Senlima
 206.238.237.7:Senlima
 206.238.236.75:Senlima
-31.12.75.83:fastest route
-31.12.75.235:fastest route
-31.12.75.89:fastest route
-31.12.75.35:fastest route
-31.12.75.49:fastest route
-31.12.75.55:fastest route
-31.12.75.178:fastest route
-31.12.75.80:fastest route
-31.12.75.113:fastest route
-31.12.75.128:fastest route
-5.10.244.2:fastest route
-5.10.247.224:fastest route
-5.10.245.124:fastest route
-5.10.246.213:fastest route
-5.10.245.136:fastest route
-5.10.245.226:fastest route
-5.10.247.229:fastest route
-5.10.244.71:fastest route
-5.10.246.188:fastest route
-5.10.247.102:fastest route
 204.93.210.118:Anycast
 204.93.210.122:Anycast
 204.93.210.204:Anycast
@@ -87,10 +74,23 @@ baijan.jianxian.dynv6.net:443#instagram
 206.238.236.54#Senlima
 206.238.237.50#Senlima
 206.238.236.246#Senlima
-144.168.56.150#Movantaj
-144.34.165.240#Movantaj
-204.93.210.146#Movantaj
-104.194.83.183#Movantaj
-89.208.241.134#Movantaj
-67.230.166.242#Movantaj
-95.169.27.162#Movantaj
+31.12.75.83:fastest route
+31.12.75.235:fastest route
+31.12.75.89:fastest route
+31.12.75.35:fastest route
+31.12.75.49:fastest route
+31.12.75.55:fastest route
+31.12.75.178:fastest route
+31.12.75.80:fastest route
+31.12.75.113:fastest route
+31.12.75.128:fastest route
+5.10.244.2:fastest route
+5.10.247.224:fastest route
+5.10.245.124:fastest route
+5.10.246.213:fastest route
+5.10.245.136:fastest route
+5.10.245.226:fastest route
+5.10.247.229:fastest route
+5.10.244.71:fastest route
+5.10.246.188:fastest route
+5.10.247.102:fastest route
