@@ -11,12 +11,12 @@ baijan.jianxian.dynv6.net:443#instagram
 27.50.48.8#Anti.HongKong
 27.50.48.73#Anti.HongKong
 27.50.48.5#Anti.HongKong
-204.93.210.84:sword fairy
-204.93.210.27:sword fairy
-204.93.210.96:sword fairy
-154.92.9.30:sword fairy
-154.92.9.27:sword fairy
-154.92.9.51:sword fairy
+204.93.210.84:Anycast
+204.93.210.27:Anycast
+204.93.210.96:Anycast
+154.92.9.30:Senlima
+154.92.9.27:Senlima
+154.92.9.51:Senlima
 154.92.9.13:Senlima
 154.92.9.58:Senlima
 154.92.9.179:Senlima
@@ -47,26 +47,26 @@ baijan.jianxian.dynv6.net:443#instagram
 206.238.237.105:Senlima
 206.238.237.7:Senlima
 206.238.236.75:Senlima
-31.12.75.83:Senlima
-31.12.75.235:Senlima
-31.12.75.89:Senlima
-31.12.75.35:Senlima
-31.12.75.49:Senlima
-31.12.75.55:Senlima
-31.12.75.178:Senlima
-31.12.75.80:Senlima
-31.12.75.113:Senlima
-31.12.75.128:Senlima
-5.10.244.2:Senlima
-5.10.247.224:Senlima
-5.10.245.124:Senlima
-5.10.246.213:Senlima
-5.10.245.136:Senlima
-5.10.245.226:Senlima
-5.10.247.229:Senlima
-5.10.244.71:Senlima
-5.10.246.188:Senlima
-5.10.247.102:Senlima
+31.12.75.83:fastest route
+31.12.75.235:fastest route
+31.12.75.89:fastest route
+31.12.75.35:fastest route
+31.12.75.49:fastest route
+31.12.75.55:fastest route
+31.12.75.178:fastest route
+31.12.75.80:fastest route
+31.12.75.113:fastest route
+31.12.75.128:fastest route
+5.10.244.2:fastest route
+5.10.247.224:fastest route
+5.10.245.124:fastest route
+5.10.246.213:fastest route
+5.10.245.136:fastest route
+5.10.245.226:fastest route
+5.10.247.229:fastest route
+5.10.244.71:fastest route
+5.10.246.188:fastest route
+5.10.247.102:fastest route
 204.93.210.118:Anycast
 204.93.210.122:Anycast
 204.93.210.204:Anycast
