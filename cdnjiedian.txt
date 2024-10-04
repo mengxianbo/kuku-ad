@@ -23,76 +23,33 @@ hk2.jianxian.dynv6.net#Hongkong②
 204.93.210.84:Anycast
 204.93.210.27:Anycast
 204.93.210.96:Anycast
-154.92.9.30:Senlima
-154.92.9.27:Senlima
-154.92.9.51:Senlima
-154.92.9.13:Senlima
-154.92.9.58:Senlima
-154.92.9.179:Senlima
-154.92.9.100:Senlima
-154.92.9.89:Senlima
-154.92.9.137:Senlima
-154.92.9.95:Senlima
-154.92.9.235:Senlima
+154.92.9.240:Senlima
+154.92.9.72:Senlima
+154.92.9.153:Senlima
+154.92.9.91:Senlima
+154.92.9.251:Senlima
 154.92.9.129:Senlima
-154.92.9.105:Senlima
-204.93.210.166:Anycast
-204.93.210.173:Anycast
-204.93.210.180:Anycast
-204.93.210.89:Anycast
-204.93.210.40:Anycast
-204.93.210.100:Anycast
-204.93.210.72:Anycast
-204.93.210.15:Anycast
-204.93.210.203:Anycast
-204.93.210.161:Anycast
-206.238.236.224:Senlima
-206.238.237.194:Senlima
-206.238.237.8:Senlima
-206.238.236.52:Senlima
-206.238.237.179:Senlima
-206.238.236.176:Senlima
-206.238.237.11:Senlima
-206.238.237.105:Senlima
+154.92.9.249:Senlima
+154.92.9.88:Senlima
+154.92.9.176:Senlima
+154.92.9.253:Senlima
+204.93.210.28:Senlima
+204.93.210.63:Senlima
+204.93.210.108:Senlima
+204.93.210.75:Senlima
+204.93.210.4:Senlima
+204.93.210.22:Senlima
+204.93.210.219:Senlima
+204.93.210.69:Senlima
+204.93.210.220:Senlima
+204.93.210.251:Senlima
+206.238.236.195:Senlima
+206.238.237.169:Senlima
+206.238.237.52:Senlima
+206.238.236.102:Senlima
+206.238.237.243:Senlima
+206.238.237.28:Senlima
+206.238.237.175:Senlima
+206.238.237.93:Senlima
 206.238.237.7:Senlima
 206.238.236.75:Senlima
-204.93.210.118:Anycast
-204.93.210.122:Anycast
-204.93.210.204:Anycast
-204.93.210.209:Anycast
-204.93.210.148:Anycast
-204.93.210.113:Anycast
-204.93.210.198:Anycast
-204.93.210.25:Anycast
-204.93.210.140:Anycast
-204.93.210.82:Anycast
-206.238.236.148#Senlima
-206.238.236.243#Senlima
-206.238.236.49#Senlima
-206.238.237.197#Senlima
-206.238.236.154#Senlima
-206.238.237.67#Senlima
-206.238.236.196#Senlima
-206.238.236.54#Senlima
-206.238.237.50#Senlima
-206.238.236.246#Senlima
-31.12.75.83:fastest route
-31.12.75.235:fastest route
-31.12.75.89:fastest route
-31.12.75.35:fastest route
-31.12.75.49:fastest route
-31.12.75.55:fastest route
-31.12.75.178:fastest route
-31.12.75.80:fastest route
-31.12.75.113:fastest route
-31.12.75.128:fastest route
-5.10.244.2:fastest route
-5.10.247.224:fastest route
-5.10.245.124:fastest route
-5.10.246.213:fastest route
-5.10.245.136:fastest route
-5.10.245.226:fastest route
-5.10.247.229:fastest route
-5.10.244.71:fastest route
-5.10.246.188:fastest route
-5.10.247.102:fastest route
