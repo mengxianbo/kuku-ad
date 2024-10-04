@@ -7,6 +7,7 @@ baijan.jianxian.dynv6.net:443#instagram
 204.93.210.84:sword fairy
 204.93.210.27:sword fairy
 204.93.210.96:sword fairy
+204.93.210.15:sword fairy
 154.92.9.64:sword fairy
 154.92.9.34:sword fairy
 154.92.9.190:sword fairy
