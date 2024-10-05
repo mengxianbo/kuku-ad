@@ -4,20 +4,17 @@ yw.jianxian.dynv6.net:443#Google
 cloud.jianxian.dynv6.net:443#Facebook
 uk.jianxian.dynv6.net:443#Youtube
 baijan.jianxian.dynv6.net:443#instagram
-204.93.210.84:sword fairy
-204.93.210.27:sword fairy
-204.93.210.96:sword fairy
-204.93.210.15:sword fairy
-154.92.9.64:sword fairy
-154.92.9.34:sword fairy
-154.92.9.190:sword fairy
+94.103.4.159#Hongkong
+94.103.4.230#Hongkong
+94.103.5.114#Hongkong
+94.103.5.46#Hongkong
+45.78.29.101#Hongkong
+45.78.21.252#Hongkong
+45.78.31.62#Hongkong
 27.50.48.106:Actions
 27.50.48.8:Actions
 27.50.48.73:Actions
 27.50.48.5:Actions
-94.103.4.159#Hongkong
-94.103.4.230#Hongkong
-45.78.29.101#Hongkong
 47.76.249.157:香港
 47.76.50.48:香港
 47.242.199.196:香港
@@ -93,6 +90,13 @@ kr2.jianxian.dynv6.net:443#韩国
 45.195.76.132:443#马来西亚
 155.254.60.86:443#马来西亚
 155.254.60.232:443#马来西亚
+204.93.210.84:sword fairy
+204.93.210.27:sword fairy
+204.93.210.96:sword fairy
+204.93.210.15:sword fairy
+154.92.9.64:sword fairy
+154.92.9.34:sword fairy
+154.92.9.190:sword fairy
 154.92.9.240:Senlima
 154.92.9.72:Senlima
 154.92.9.153:Senlima
