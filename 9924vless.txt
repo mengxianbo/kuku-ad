@@ -6,6 +6,8 @@ uk.jianxian.dynv6.net:443#Youtube
 baijan.jianxian.dynv6.net:443#instagram
 104.243.26.90:LosAngeles
 104.243.26.34:LosAngeles
+45.77.131.24:443#Japan.Choopa
+45.77.130.245:443#Japan.Choopa
 hk1.jianxian.dynv6.net#Hongkong①
 hk2.jianxian.dynv6.net#Hongkong②
 94.103.4.159#Hongkong③
