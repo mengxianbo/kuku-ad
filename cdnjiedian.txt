@@ -63,6 +63,16 @@ kr2.jianxian.dynv6.net#SouthKorea②
 154.211.8.69:443#Hongkong***
 154.211.8.98:443#Hongkong***
 154.211.8.82:443#Hongkong***
+66.235.200.66:443#Endurance
+66.235.200.154:443#Endurance
+66.235.200.254:443#Endurance
+66.235.200.54:443#Endurance
+66.235.200.84:443#Endurance
+23.227.38.25:443#Shopify
+23.227.39.100:443#Shopify
+23.227.39.193:443#Shopify
+23.227.39.55:443#Shopify
+23.227.39.200:443#Shopify
 45.142.120.205:443#Russia
 45.142.120.170:443#Russia
 45.142.120.127:443#Russia
@@ -127,3 +137,8 @@ kr2.jianxian.dynv6.net#SouthKorea②
 5.10.245.238:Azerbaijan
 5.10.245.70:Azerbaijan
 5.10.245.136:Azerbaijan
+[2606:4700::18ea:3580:d17:5d36]:ipv6
+[2606:4700::18ea:3580:e3cf:249d]:ipv6
+[2606:4700:0:c8:9d67:7b73:91c4:9c11]:ipv6
+[2606:4700:0:c8:9d67:2773:95e0:610]:ipv6
+[2606:4700:e4:994c:6286:3b05:2850:b287]:ipv6
