@@ -4,7 +4,7 @@ https://raw.githubusercontent.com/mengxianbo/kuku-ad/main/video.txt
 
 https://raw.githubusercontent.com/mengxianbo/kuku-ad/main/dns.txt
 
-https://raw.githubusercontent.com/mengxianbo/kuku-ad/refs/heads/main/aboutcookies.txt)
+https://raw.githubusercontent.com/mengxianbo/kuku-ad/refs/heads/main/aboutcookies.txt
 
 https://raw.githubusercontent.com/mengxianbo/kuku-ad/main/CJXsAnnoyanceList.txt
 
