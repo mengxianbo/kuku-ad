@@ -1,3 +1,5 @@
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+
 https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
 
 https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
